@@ -22,6 +22,7 @@ return array(
 	'manage' => 'Gerenciar',
 	'reset' => 'Reiniciar',
 	'all' => 'Todos',
+	'cancel' => 'Cancelar',
 
 	// pagination
 	'next' => 'Próximo',
