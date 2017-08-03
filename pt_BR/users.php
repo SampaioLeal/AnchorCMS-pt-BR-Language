@@ -11,7 +11,7 @@ return array(
 	'forgotten_password' => 'Esqueceu sua senha?',
 
 	// roles
-	'administrator' => 'Admin',
+	'administrator' => 'Administrador',
 	'administrator_explain' => '',
 
 	'editor' => 'Editor',

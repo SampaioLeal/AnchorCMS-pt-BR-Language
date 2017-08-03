@@ -4,6 +4,12 @@ return array(
 
 	'extend' => 'Extensão',
 
+    'pagetypes' => 'Páginas',
+    'pagetypes_desc' => 'Crie ou edite uma página',
+    
+    'create_pagetype' => 'Criar uma página',
+    'editing_pagetype' => 'Editar página',
+
 	'fields' => 'Campos customizados',
 	'fields_desc' => 'Criar campos adicionais',
 

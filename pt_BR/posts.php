@@ -9,7 +9,7 @@ return array(
 
 	// form fields
 	'title' => 'Título do post',
-	'title_explain' => '',
+	'title_explain' => 'O título da postagem',
 	'title_missing' => 'Por favor preencha o título',
 
 	'content' => 'Conteúdo do post',
@@ -22,22 +22,22 @@ return array(
 	'slug_invalid' => 'O Slug deve conter letras',
 
 	'description' => 'Descrição',
-	'description_explain' => '',
+	'description_explain' => 'Digite a descrição do seu post',
 
 	'status' => 'Estado',
-	'status_explain' => '',
+	'status_explain' => 'O estado em que o post se encontra',
 
 	'category' => 'Categoria',
-	'category_explain' => '',
+	'category_explain' => 'Categorize seu post para mais organização',
 
 	'allow_comments' => 'Permitir comntários',
-	'allow_comments_explain' => '',
+	'allow_comments_explain' => 'Permitir que usuários possam comentar',
 
 	'custom_css' => 'Custom CSS',
-	'custom_css_explain' => '',
+	'custom_css_explain' => 'Ter um CSS customizado para alterar o estilo somente do post',
 
 	'custom_js' => 'Custom JS',
-	'custom_js_explain' => '',
+	'custom_js_explain' => 'Ter um JS customizado para alterar alguma função do post',
 
 	// messages
 	'updated' => 'Seu post foi atualizado',
