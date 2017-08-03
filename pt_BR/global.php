@@ -13,14 +13,14 @@ return array(
 	'delete' => 'Excluir',
 	'update' => 'Atualizar',
 	'edit' => 'Alterar',
-	'editing' => 'Alterando',
+	'editing' => 'Alterando...',
 	'create' => 'Criar',
-	'created' => 'Criado',
+	'created' => 'Criado!',
 	'submit' => 'Enviar',
 	'close' => 'Fechar',
 	'status' => 'Estado',
 	'manage' => 'Gerenciar',
-	'reset' => 'Reset',
+	'reset' => 'Reiniciar',
 	'all' => 'Todos',
 
 	// pagination
@@ -41,18 +41,18 @@ return array(
 	'active' => 'Ativo',
 
 	// roles
-	'administrator' => 'Admin',
+	'administrator' => 'Administrador',
 	'editor' => 'Editor',
 	'user' => 'Usuário',
 
 	'log_in' => 'Log in',
-	'login' => 'Login',
+	'login' => 'Entrar',
 	'log_out' => 'Log out',
-	'logout' => 'Logout',
+	'logout' => 'Sair',
 
 	// pharses
 	'visit_your_site' => 'Seu site',
-	'powered_by_anchor' => 'Powered by Anchor, version %s',
+	'powered_by_anchor' => 'Site produzido por Anchor, versão %s',
 	'make_blogging_beautiful' => 'Make blogging beautiful.',
 
 	// intro
@@ -61,7 +61,7 @@ return array(
 	'run_the_installer' => 'Iniciar a intalação',
 
 	// upgrade
-	'upgrade' => 'Upgrade',
+	'upgrade' => 'Atualização',
 	'good_news' => 'Novidade!',
 	'new_version_available' => 'Existe um nova versão do Anchor disponível.',
 	'download_now' => 'Fazer download agora',
